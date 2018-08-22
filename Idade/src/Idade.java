@@ -9,6 +9,7 @@ public class Idade {
 		System.out.println("Idade...");
 		
 		Scanner scanner = new Scanner(System.in);
+		//Scanner scanner = new Scanner(System.in);
 
 		System.out.println("Informe o ano em que vc conheceu o amor da sua vida: ");
 		
